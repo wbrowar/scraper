@@ -1,0 +1,15 @@
+[
+  {
+    "dest": "groups/group/soundproof",
+    "url": "http://acb-craft-archiver.test:80/group/soundproof"
+  },{
+    "dest": "groups/group/pitch-please-2",
+    "url": "http://acb-craft-archiver.test:80/group/pitch-please-2"
+  },{
+    "dest": "groups/group/naturally-7",
+    "url": "http://acb-craft-archiver.test:80/group/naturally-7"
+  },{
+    "dest": "groups/group/tonic-sol-fa",
+    "url": "http://acb-craft-archiver.test:80/group/tonic-sol-fa"
+  }
+]

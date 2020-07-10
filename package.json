@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "scrape": "node ./scrape.js"
+  },
+  "name": "scraper",
+  "private": true,
+  "license": "MIT",
+  "version": "1.0.0",
+  "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "sync-request": "^6.1.0"
+  }
+}
